@@ -1,16 +1,28 @@
-# htr
+# Quill - A Handwriting Recognition App
 
-A new Flutter project.
+A Flutter mobile application that converts handwritten text to digital format using machine learning-powered text recognition.
 
-## Getting Started
+Final year project, in partial fulfilment of the requirements for the BSc. Computer Science degree. 
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+### Core Functionality
+- **Image Capture**: Take photos of handwritten text using your device camera
+- **Gallery Import**: Select existing images from your device gallery
+- **Text Recognition**: Advanced ML-powered handwriting recognition
+- **Text Editing**: Edit and refine recognized text with a clean, responsive editor
+- **Smart Search**: Find conversions by title or content
+- **Persistent Storage**: All conversions saved locally using Hive database
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Export Options
+- **PDF Export**: Generate formatted PDF documents
+- **DOCX Export**: Create Word-compatible documents (RTF format)
+- **TXT Export**: Plain text file export
+- **System Sharing**: Share exported files through any installed app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Acknowledgments
+
+- Flutter team for the excellent framework
+- Hive for efficient local storage
+- ML Kit / OCR service providers for text recognition capabilities
+- Google Fonts for typography
