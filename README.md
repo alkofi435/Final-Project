@@ -20,9 +20,7 @@ Final year project, in partial fulfilment of the requirements for the BSc. Compu
 - **TXT Export**: Plain text file export
 - **System Sharing**: Share exported files through any installed app
 
-## Acknowledgments
+## Team Members
 
-- Flutter team for the excellent framework
-- Hive for efficient local storage
-- ML Kit / OCR service providers for text recognition capabilities
-- Google Fonts for typography
+- Alvin Papa Kofi Ackon
+- Yram Asher Tetteh-Abotsi
